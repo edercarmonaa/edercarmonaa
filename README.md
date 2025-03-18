@@ -68,7 +68,7 @@ Además, poseo conocimientos en **electricidad**, aplicados en la gestión de in
 - Automatización de procesos de inventario y pedidos.
 - Implementación de **API RESTful** y seguridad en transacciones.
 
-### 🔹 Automatización de Tareas en PHP
+### 🔹 Automatización de Tareas en Python
 - Desarrollo de scripts para la optimización de procesos repetitivos.
 - Generación automatizada de reportes y conciliaciones bancarias.
 - Implementación de flujos de trabajo para la eficiencia operativa.
