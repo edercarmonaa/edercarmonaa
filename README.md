@@ -3,18 +3,10 @@
 ## Sobre Mí
 Especialista en la mejora continua y optimización de procesos mediante el diseño e implementación de soluciones tecnológicas avanzadas, orientadas a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales. Destaco por mi enfoque en la actualización constante sobre tendencias y herramientas tecnológicas emergentes, permitiendo el desarrollo de soluciones personalizadas y de alto impacto.
 
-Cuento con experiencia comprobada en el sector público y privado, lo que me ha proporcionado una visión integral y adaptable para gestionar proyectos complejos, alineados con objetivos estratégicos y orientados a resultados efectivos y medibles.
-
-Gestión de operaciones de banca en línea y dispersión de nómina de trabajadores, incluyendo la supervisión y resolución de rechazos generados por el sistema estatal. Experiencia avanzada en conciliaciones bancarias, atención a auditorías y optimización de procesos financieros y administrativos mediante el desarrollo y aplicación de herramientas informáticas. Diseño y modelado de bases de datos relacionales, generación de reportes gerenciales mediante programación de sistemas (SQL, Python, o herramientas ETL) y automatización de flujos de trabajo críticos, maximizando la eficiencia operativa y la precisión en la gestión de datos.
-
-Además, poseo conocimientos en **electricidad**, aplicados en la gestión de infraestructuras tecnológicas, instalaciones eléctricas para equipos informáticos y mantenimiento de sistemas eléctricos en entornos empresariales.
 
 ## Experiencia Profesional
 ### 🏛 Jefe de Oficina de Pago Electrónico  
 **Secretaría de Educación de Veracruz (2016-2024)**  
-- Gestión de operaciones de banca en línea y dispersión de nómina.
-- Supervisión y resolución de rechazos en el sistema estatal.
-- Conciliaciones bancarias, atención a auditorías y mejora de procesos administrativos.
 - Desarrollo de herramientas informáticas para optimización financiera.
 - Diseño y modelado de bases de datos, reportes gerenciales y automatización de flujos críticos.
 
@@ -35,10 +27,6 @@ Además, poseo conocimientos en **electricidad**, aplicados en la gestión de in
 - Implementación y administración de servidores.
 - Puesta en marcha de áreas de TI en sucursales.
 - Liderazgo de equipos para optimización de procesos tecnológicos.
-
-## Formación Académica
-- 🎓 **Maestría en Administración Pública** - Instituto Universitario Veracruzano (2019-2021)
-- 🎓 **Ingeniería en Sistemas Computacionales** - Instituto Tecnológico Superior de Xalapa (2001-2007)
 
 ## Certificaciones
 - 📜 **Certificado de Ciberseguridad** - Coursera (Google), Septiembre 2024. Código: JMIKJL08XWFW
