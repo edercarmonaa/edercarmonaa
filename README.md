@@ -4,31 +4,9 @@
 Especialista en la mejora continua y optimización de procesos mediante el diseño e implementación de soluciones tecnológicas avanzadas, orientadas a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales. Destaco por mi enfoque en la actualización constante sobre tendencias y herramientas tecnológicas emergentes, permitiendo el desarrollo de soluciones personalizadas y de alto impacto.
 
 
-## Experiencia Profesional
-### 🏛 Jefe de Oficina de Pago Electrónico  
-**Secretaría de Educación de Veracruz (2016-2024)**  
-- Desarrollo de herramientas informáticas para optimización financiera.
-- Diseño y modelado de bases de datos, reportes gerenciales y automatización de flujos críticos.
-
-### 📚 Capacitador Especializado en Desarrollo de Competencias  
-- **Curso de Visión por Computadora** - Instituto Tecnológico Superior de Poza Rica.  
-- **Curso de Introducción a Raspberry Pi** - Instituto Tecnológico Superior de Juan Rodríguez Clara.  
-
-### ⚡ Desarrollador Full Stack  
-**Comisión Federal de Electricidad (2011-2016)**  
-- Diseño, desarrollo e implementación de aplicaciones a nivel nacional.
-- Creación de módulos para sistemas institucionales.
-- Configuración e implementación de servidores de bases de datos.
-- Elaboración de reportes gerenciales para toma de decisiones estratégicas.
-
-### 🖥 Analista de Sistemas  
-**JR Comercial (2010 - 2011)**  
-- Atención de solicitudes en mesa de servicios.
-- Implementación y administración de servidores.
-- Puesta en marcha de áreas de TI en sucursales.
-- Liderazgo de equipos para optimización de procesos tecnológicos.
-
 ## Certificaciones
+- 📜 **Google Business Intelligence Certificate** - Coursera (Google), Abril 2024. Código: C00J18XX55K7
+- 📜 **Microsoft Certified: Azure Data Fundamentals** - Microsoft, Marzo 2025. Código: D9777CA04ACC0791
 - 📜 **Certificado de Ciberseguridad** - Coursera (Google), Septiembre 2024. Código: JMIKJL08XWFW
 - 📜 **Google IT Automation with Python Professional Certificate** - Coursera (Google), Mayo 2023. Código: K7LDP7AAFNY8
 - 📜 **Certificado de Soporte de TI** - Coursera (Google), Enero 2023. Código: V9ZHEDF3VD4T
@@ -42,8 +20,7 @@ Especialista en la mejora continua y optimización de procesos mediante el dise�
 - **Infraestructura y Cloud:** Azure, AWS, Docker
 - **Desarrollo Móvil:** Kotlin (Android)
 - **Control de Versiones y CI/CD:** Git, GitHub Actions, Jenkins
-- **Automatización:** PHP, Python, ETL
-- **Electricidad:** Instalaciones eléctricas, mantenimiento de sistemas eléctricos
+- **Automatización:** Python, ETL, ELT
 
 ## Proyectos Destacados
 ### 🔹 Sistema de Auditoría Interna
