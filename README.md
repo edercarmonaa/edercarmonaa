@@ -16,7 +16,7 @@ Especialista en la mejora continua y optimización de procesos mediante el dise�
 ## Tecnologías y Herramientas
 - **Backend:** Kotlin, Spring Boot, PHP, Laravel
 - **Frontend:** React, Angular
-- **Base de Datos:** MySQL, PostgreSQL
+- **Base de Datos:** MySQL, PostgreSQL, SQL Server
 - **Infraestructura y Cloud:** Azure, AWS, Docker
 - **Desarrollo Móvil:** Kotlin (Android)
 - **Control de Versiones y CI/CD:** Git, GitHub Actions, Jenkins
