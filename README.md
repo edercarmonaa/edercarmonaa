@@ -1,48 +1,89 @@
-# 👨‍💻 Perfil Profesional
+# ¡Hola! Soy Eder Carmona 👨‍💻
 
-## Sobre Mí
-Especialista en la mejora continua y optimización de procesos mediante el diseño e implementación de soluciones tecnológicas avanzadas, orientadas a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales. Destaco por mi enfoque en la actualización constante sobre tendencias y herramientas tecnológicas emergentes, permitiendo el desarrollo de soluciones personalizadas y de alto impacto.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eder%20Carmona&fontSize=40&animation=fadeIn" alt="Banner Eder Carmona" />
+</p>
 
+## 🚀 Sobre Mí
 
-## Certificaciones
-- 📜 **Google Business Intelligence Certificate** - Coursera (Google), Abril 2024. Código: C00J18XX55K7
-- 📜 **Microsoft Certified: Azure Data Fundamentals** - Microsoft, Marzo 2025. Código: D9777CA04ACC0791
-- 📜 **Certificado de Ciberseguridad** - Coursera (Google), Septiembre 2024. Código: JMIKJL08XWFW
-- 📜 **Google IT Automation with Python Professional Certificate** - Coursera (Google), Mayo 2023. Código: K7LDP7AAFNY8
-- 📜 **Certificado de Soporte de TI** - Coursera (Google), Enero 2023. Código: V9ZHEDF3VD4T
-- 📜 **Certificado de Análisis de Datos** - Coursera (Google), Octubre 2022. Código: ZHXVFP52H8DG
-- 📜 **Certified: Azure Fundamentals** - Microsoft, Enero 2022. Código: 992018610
+Especialista en la **mejora continua y optimización de procesos** mediante el diseño e implementación de soluciones tecnológicas avanzadas. Mi enfoque está orientado a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales de la empresa. 
 
-## Tecnologías y Herramientas
-- **Backend:** Kotlin, Spring Boot, PHP, Laravel
-- **Frontend:** React, Angular
-- **Base de Datos:** MySQL, PostgreSQL, SQL Server
-- **Infraestructura y Cloud:** Azure, AWS, Docker
-- **Desarrollo Móvil:** Kotlin (Android)
-- **Control de Versiones y CI/CD:** Git, GitHub Actions, Jenkins
-- **Automatización:** Python, ETL, ELT
+Me destaco por mi **actualización constante** sobre tendencias y herramientas tecnológicas emergentes, lo que me permite el desarrollo de soluciones personalizadas, escalables y de alto impacto.
 
-## Proyectos Destacados
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Backend
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Infraestructura y Cloud
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Desarrollo Móvil & Automatización
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Control de Versiones y CI/CD
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 📜 Certificaciones
+
+* **Google Business Intelligence Certificate** – Coursera (Google), 2024 _(ID: C00J18XX55K7)_
+* **Microsoft Certified: Azure Data Fundamentals** – Microsoft, 2025 _(ID: D9777CA04ACC0791)_
+* **Certificado de Ciberseguridad** – Coursera (Google), 2024 _(ID: JMIKJL08XWFW)_
+* **Google IT Automation with Python Professional Certificate** – Coursera (Google), 2023 _(ID: K7LDP7AAFNY8)_
+* **Certificado de Soporte de TI** – Coursera (Google), 2023 _(ID: V9ZHEDF3VD4T)_
+* **Certificado de Análisis de Datos** – Coursera (Google), 2022 _(ID: ZHXVFP52H8DG)_
+* **Certified: Azure Fundamentals** – Microsoft, 2022 _(ID: 992018610)_
+
+---
+
+## 📂 Proyectos Destacados
+
 ### 🔹 Sistema de Auditoría Interna
-- Herramienta para la planificación, ejecución y seguimiento de auditorías empresariales.
-- Gestión de hallazgos, reportes y evidencia documental.
-- **Exportación a Excel y PDF** para análisis de datos.
+Herramienta integral para la planificación, ejecución y seguimiento de auditorías empresariales.
+* **Características:** Gestión de hallazgos, reportes y evidencia documental.
+* **Impacto:** Exportación automatizada a Excel y PDF para optimizar el análisis de datos de cumplimiento.
 
 ### 🔹 Soluciones para E-commerce
-- Integración y optimización de plataformas en **MercadoLibre y Amazon**.
-- Automatización de procesos de inventario y pedidos.
-- Implementación de **API RESTful** y seguridad en transacciones.
+Integración y optimización de plataformas de comercio electrónico líderes en el mercado.
+* **Características:** Conexión fluida con las APIs de MercadoLibre y Amazon.
+* **Impacto:** Automatización de flujos de inventario y pedidos, implementando API RESTful robustas y altos estándares de seguridad en transacciones.
 
-### 🔹 Automatización de Tareas en Python
-- Desarrollo de scripts para la optimización de procesos repetitivos.
-- Generación automatizada de reportes y conciliaciones bancarias.
-- Implementación de flujos de trabajo para la eficiencia operativa.
+### 🔹 Automatización de Tareas con Python
+Desarrollo de ecosistemas de scripts enfocados en la eliminación de cuellos de botella operativos.
+* **Características:** Generación automatizada de reportes comerciales y conciliaciones bancarias.
+* **Impacto:** Incremento drástico en la eficiencia operativa reduciendo errores en procesos repetitivos.
 
+---
 
-## Contacto
-- 📧 [Correo](mailto:edercarmona@karedit.com.mx)
-- 💼 [LinkedIn](https://www.linkedin.com/in/eder-carmona)
-- 🌐 [Portafolio](https://karedit.com.mx)
+## ✉️ Contacto
 
-_Comprometido con la innovación tecnológica y la excelencia en el desarrollo de software._
+¡Siempre abierto a conectar, colaborar en proyectos innovadores o charlar sobre desarrollo de software y datos!
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat-square&logo=browser&logoColor=white)](https://tu-portafolio.com)
+
+<p align="center">
+  <em>Comprometido con la innovación tecnológica y la excelencia en el desarrollo de software.</em>
+</p>
