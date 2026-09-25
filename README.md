@@ -16,10 +16,12 @@
 
 ## 🚀 Sobre Mí
 
-Especialista en la **mejora continua y optimización de procesos** mediante el diseño e implementación de soluciones tecnológicas avanzadas. Mi enfoque está orientado a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales de la empresa.
+**Ingeniero de Software** enfocado en el diseño e implementación de sistemas escalables, arquitectura Backend/Móvil y automatización de procesos clave. Transformo requerimientos operativos complejos en soluciones tecnológicas eficientes y de alto rendimiento.
 
-Me destaco por mi **actualización constante** sobre tendencias y herramientas tecnológicas emergentes, lo que me permite el desarrollo de soluciones personalizadas, escalables y de alto impacto.
-
+- 🛠️ **Arquitectura & Backend:** Desarrollo de APIs RESTful, servicios en la nube y microservicios mantenibles.
+- ⚙️ **Automatización & Data:** Optimización de flujos operativos y procesamiento de datos para eliminar cuellos de botella.
+- 📱 **Desarrollo Móvil:** Creación de aplicaciones robustas con Kotlin y Jetpack Compose.
+- 📈 **Mejora Continua:** Enfoque constante en Clean Code, actualización tecnológica y entrega de valor.
 ---
 
 ## 🛠️ Tecnologías y Herramientas
