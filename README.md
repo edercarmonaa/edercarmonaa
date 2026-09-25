@@ -1,12 +1,22 @@
-# ¡Hola! Soy Eder Carmona 👨‍💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072C6&height=200&section=header&text=Eder%20Carmona&fontSize=40&animation=fadeIn" alt="Banner Eder Carmona" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eder%20Carmona&fontSize=40&animation=fadeIn" alt="Banner Eder Carmona" />
+  <strong>Especialista en Optimización de Procesos | Software Engineer | Data & Automation</strong>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eder-carmona/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="http://karedit.com.mx"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio" /></a>
+  <a href="mailto:edercarmona@karedit.com.mx"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
 
 ## 🚀 Sobre Mí
 
-Especialista en la **mejora continua y optimización de procesos** mediante el diseño e implementación de soluciones tecnológicas avanzadas. Mi enfoque está orientado a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales de la empresa. 
+Especialista en la **mejora continua y optimización de procesos** mediante el diseño e implementación de soluciones tecnológicas avanzadas. Mi enfoque está orientado a incrementar la productividad y simplificar operaciones en múltiples áreas funcionales de la empresa.
 
 Me destaco por mi **actualización constante** sobre tendencias y herramientas tecnológicas emergentes, lo que me permite el desarrollo de soluciones personalizadas, escalables y de alto impacto.
 
@@ -14,11 +24,16 @@ Me destaco por mi **actualización constante** sobre tendencias y herramientas t
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Backend
+### Lenguajes & Backend
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Móvil
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### Bases de Datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,6 +48,15 @@ Me destaco por mi **actualización constante** sobre tendencias y herramientas t
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170" />
+</p>
 
 ---
 
@@ -66,14 +90,6 @@ Desarrollo de ecosistemas de scripts enfocados en la eliminación de cuellos de 
 * **Impacto:** Incremento drástico en la eficiencia operativa reduciendo errores en procesos repetitivos.
 
 ---
-
-## ✉️ Contacto
-
-¡Siempre abierto a conectar, colaborar en proyectos innovadores o charlar sobre desarrollo de software y datos!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edercarmona@karedit.com.mx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eder-carmona/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat-square&logo=browser&logoColor=white)](http://karedit.com.mx)
 
 <p align="center">
   <em>Comprometido con la innovación tecnológica y la excelencia en el desarrollo de software.</em>
