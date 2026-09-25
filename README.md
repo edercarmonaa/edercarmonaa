@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Especialista en Optimización de Procesos | Software Engineer | Data & Automation</strong>
+  <strong>Software Engineer | Backend & Automation | Process Optimization & Cloud</strong>
 </p>
 
 <p align="center">
