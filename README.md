@@ -79,5 +79,5 @@
 ---
 
 <p align="center">
-  <em>Comprometido con la innovación tecnológica y la excelencia en el desarrollo de software.</em>
+  <em>Construyendo software.</em>
 </p>
