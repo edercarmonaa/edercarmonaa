@@ -53,13 +53,13 @@ Me destaco por mi **actualización constante** sobre tendencias y herramientas t
 
 ## 📊 Estadísticas de GitHub
 
-## 📊 Actividad en GitHub
-
-## 📊 Actividad en GitHub
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=edercarmonaa&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="170" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edercarmonaa&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edercarmonaa&theme=tokyonight" alt="Detalles de perfil" height="165" />
+  <img src="https://img.shields.io/github/followers/edercarmonaa?style=for-the-badge&logo=github&color=0072C6" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/edercarmonaa?style=for-the-badge&logo=github&color=FF9900" alt="Estrellas Totales" />
 </p>
 
 ---
