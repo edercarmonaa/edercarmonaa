@@ -54,8 +54,8 @@ Me destaco por mi **actualización constante** sobre tendencias y herramientas t
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edercarmonaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edercarmonaa&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 </p>
 
 ---
@@ -69,25 +69,6 @@ Me destaco por mi **actualización constante** sobre tendencias y herramientas t
 * **Certificado de Soporte de TI** – Coursera (Google), 2023 _(ID: V9ZHEDF3VD4T)_
 * **Certificado de Análisis de Datos** – Coursera (Google), 2022 _(ID: ZHXVFP52H8DG)_
 * **Certified: Azure Fundamentals** – Microsoft, 2022 _(ID: 992018610)_
-
----
-
-## 📂 Proyectos Destacados
-
-### 🔹 Sistema de Auditoría Interna
-Herramienta integral para la planificación, ejecución y seguimiento de auditorías empresariales.
-* **Características:** Gestión de hallazgos, reportes y evidencia documental.
-* **Impacto:** Exportación automatizada a Excel y PDF para optimizar el análisis de datos de cumplimiento.
-
-### 🔹 Soluciones para E-commerce
-Integración y optimización de plataformas de comercio electrónico líderes en el mercado.
-* **Características:** Conexión fluida con las APIs de MercadoLibre y Amazon.
-* **Impacto:** Automatización de flujos de inventario y pedidos, implementando API RESTful robustas y altos estándares de seguridad en transacciones.
-
-### 🔹 Automatización de Tareas con Python
-Desarrollo de ecosistemas de scripts enfocados en la eliminación de cuellos de botella operativos.
-* **Características:** Generación automatizada de reportes comerciales y conciliaciones bancarias.
-* **Impacto:** Incremento drástico en la eficiencia operativa reduciendo errores en procesos repetitivos.
 
 ---
 
