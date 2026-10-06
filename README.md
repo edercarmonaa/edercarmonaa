@@ -64,17 +64,6 @@
   <img src="https://img.shields.io/github/stars/edercarmonaa?style=for-the-badge&logo=github&color=FF9900" alt="Estrellas Totales" />
 </p>
 
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/edercarmonaa" alt="Gráfica de contribuciones de Eder Carmona" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/edercarmonaa?style=for-the-badge&logo=github&color=0072C6" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/edercarmonaa?style=for-the-badge&logo=github&color=FF9900" alt="Estrellas Totales" />
-</p>
 ---
 
 ## 📜 Certificaciones
