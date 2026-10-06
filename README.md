@@ -56,7 +56,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edercarmonaa&theme=tokyonight&hide_border=true" alt="Racha de GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edercarmonaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="170" />
 </p>
 
 <p align="center">
